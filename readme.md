@@ -1,4 +1,4 @@
-# BeautiFind
+# README Generator
   ## TABLE OF CONTENT
   
   [Description](#DESCRIPTION)  
@@ -11,15 +11,15 @@
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## DESCRIPTION
-  A Website that enables users to connect with local technicians to find the best fit
+  This project will generate a simple README file.
   ## INSTALLATION
-  Install the website
+  The project can be run by using standard npm package
   ## USAGE
-  use to connect people
+  Allow users to generate README depending on their need.
   ## CONTRIBUTION
-  Me
+  
   ## TEST
-  No Test Needed
+  
   ## QUESTIONS
 
   This is my Github Profile : [Profile](https://github.com/hlong24399)  
